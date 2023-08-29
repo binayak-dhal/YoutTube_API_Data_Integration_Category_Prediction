@@ -29,9 +29,6 @@ AWS Lambda Trigger
 
 ![image](https://github.com/binayak-dhal/YoutTube_API_Data_Integration_Category_Prediction/assets/23261595/632830e6-d710-4839-b308-86ce33b16b8c)
 
-Configure Test Event
-
-![image](https://github.com/binayak-dhal/YoutTube_API_Data_Integration_Category_Prediction/assets/23261595/900be1fc-d8ae-4595-a457-b75c8c59a252)
 
 Lambda Function
 
