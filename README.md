@@ -14,7 +14,6 @@ Architecture
 
 IAM ROLES
 
-![image](https://github.com/binayak-dhal/YoutTube_API_Data_Integration_Category_Prediction/assets/23261595/7d4d798e-2a2b-4006-8af5-e7d90aff4bf6)
 ![image](https://github.com/binayak-dhal/YoutTube_API_Data_Integration_Category_Prediction/assets/23261595/4a576c59-5146-4d91-877b-0c4676007500)
 
 Crawler
