@@ -7,15 +7,18 @@
 
 Architecture
 
-![image](https://github.com/binayak-dhal/YoutTube_API_Data_Integration_Category_Prediction/assets/23261595/70f955a2-b851-4652-a8d8-c325354075ad)
+![image](https://github.com/binayak-dhal/YoutTube_API_Data_Integration_Category_Prediction/assets/23261595/b2c4851d-b1a4-414e-9154-c1fb2dc412c0)
+
 
 ![image](https://github.com/binayak-dhal/YoutTube_API_Data_Integration_Category_Prediction/assets/23261595/50cff1bc-a629-4ded-9e21-6bb41ad31fd1)
 
 IAM ROLES
+
 ![image](https://github.com/binayak-dhal/YoutTube_API_Data_Integration_Category_Prediction/assets/23261595/7d4d798e-2a2b-4006-8af5-e7d90aff4bf6)
 ![image](https://github.com/binayak-dhal/YoutTube_API_Data_Integration_Category_Prediction/assets/23261595/4a576c59-5146-4d91-877b-0c4676007500)
 
 Crawler
+
 ![image](https://github.com/binayak-dhal/YoutTube_API_Data_Integration_Category_Prediction/assets/23261595/ff3c34d2-3f7f-4cc3-b831-63c71ff06697)
 
 S3 Buckets
